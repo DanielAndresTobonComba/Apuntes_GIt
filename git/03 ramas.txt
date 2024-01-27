@@ -1,0 +1,26 @@
+git branch [-a] para obtener todas las ramas
+
+git branch "nombre de la rama" para crear una rama
+
+git branch para saber cuantas ramas hay y en cual estoy
+
+git checkout "nombre de la rama" para pasar de una rama a otra 
+
+
+git merge "nombre"
+para traer los cambios de una rama a otra , debo estar en la rama que va a recibir los cambios 
+
+
+git branch -D "nombre" 
+borrar una ramma
+
+git branch -m nombre 
+para cambiar le nombre de la rama en la que estoy 
+
+
+git remote add nombre de la rama , link de github 
+para traer un repositorio de github 
+
+git push -u repositorioRemoto , repositorioLocal = main 
+
+
