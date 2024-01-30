@@ -1,0 +1,14 @@
+git remote para saber si tenemos un repositorio remoto 
+
+git remote -v para obtener los datos del repositorio remoto
+
+git remote rm "nombre" para remover un repositorio remoto 
+
+pwd 
+
+
+git clone url del repositorio 
+para clonar un repositorio
+
+git restore "archivo" para deshcer cambios cuando no se uso el add 
+
