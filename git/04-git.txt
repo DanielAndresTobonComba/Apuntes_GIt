@@ -1,3 +1,5 @@
+REPOSITORIOS REMOTOS
+
 git remote para saber si tenemos un repositorio remoto 
 
 git remote -v para obtener los datos del repositorio remoto
@@ -10,13 +12,14 @@ pwd
 git clone url del repositorio 
 para clonar un repositorio
 
-git restore "archivo" para deshcer cambios cuando no se uso el add 
+git restore "archivo" 
+para deshcer cambios cuando no se uso el add 
 
 git restore --staged "nombrearchivo" 
 para bajar un archivo y restaurarlo de area de preparacion osea cuando se hace add y luego se debe restaurar con el comando de arriba
 
 git restore --staged  -worktree "nombrearchivo" 
-para restaurar directamente cuando se le hace un add y se restaura ahorrandode 
+para restaurar directamente cuando se le hace un add y se restaura ahorrandote 
 
 git restore --source "idArchivo" "nombrearchivo" 
 para viajar entre commits 
